@@ -4,7 +4,7 @@
 
 * Description
 
-A simple tetris game made in Unity to learning purposes.
+A simple tetris game made in Unity to learning purposes. This is true.
 
 * Play
 
