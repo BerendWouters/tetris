@@ -1,9 +1,10 @@
 #+AUTHOR: Manoel Vilela
+#+AUTHOR: Berend Wouters
 #+DATE: 2017/07/30
 
 * Description
 
-A simple tetris game made in Unity to learning purposes.
+A simple tetris game made in Unity to learning purposes. This is true.
 
 * Play
 
